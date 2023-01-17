@@ -1,0 +1,4 @@
+from math import *
+n = int(input())
+a = float(input())
+print(n*a*a/(4*tan(pi/n)))
